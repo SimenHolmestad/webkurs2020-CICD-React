@@ -11,7 +11,7 @@ const styles = {
 const Header = () => {
     return (
         <div style={styles}>
-            <header>KART?</header>
+            <header>KART??? Næmmen harru sett!</header>
         </div>
     )
 }
